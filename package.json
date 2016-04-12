@@ -1,0 +1,22 @@
+{
+  "name": "calamarculino",
+  "version": "0.1.0",
+  "description": "simple funny bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fczuardi/calamarculino.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Fabricio C Zuardi",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fczuardi/calamarculino/issues"
+  },
+  "homepage": "https://github.com/fczuardi/calamarculino#readme"
+}
